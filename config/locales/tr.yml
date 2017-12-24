@@ -1,0 +1,8 @@
+tr:
+    hello: "Uygulamama hoşgeldiniz"
+    homepage: "Ana sayfa"
+    editprofil: "Profili Düzenle"
+    logout: "Çıkış"
+    login: "Giriş"
+    signup: "Kayıt Ol"
+    cholan: "Dili Seçin"
